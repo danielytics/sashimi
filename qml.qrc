@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>networking.js</file>
+        <file>Accounts.qml</file>
+    </qresource>
+</RCC>
